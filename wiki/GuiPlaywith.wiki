@@ -1,0 +1,3 @@
+#summary Screenshot of the playwith-based GUI
+
+http://latticist.googlecode.com/files/latticist_gui_playwith_01.png
